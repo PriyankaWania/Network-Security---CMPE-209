@@ -1,0 +1,1 @@
+Hashing is a one way function that returns a unique message digest for every unique plaintext Hashing is a one way function that returns a unique message digest for every unique plaintext Hashing is a one way function that returns a unique message digest for every unique plaintext
